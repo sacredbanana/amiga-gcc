@@ -2,6 +2,7 @@ build*
 projects
 download
 Output
+venv
 *.log
 .lock
 .state
